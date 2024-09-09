@@ -299,7 +299,7 @@ h3{
     .holder-green{
         background-color: var(--green);
         border-radius: 30px;
-        padding:30px;
+        padding:30px; 
         display:flex;
         margin: 0 auto;
         max-width: 1440px;

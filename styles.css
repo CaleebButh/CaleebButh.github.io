@@ -268,17 +268,7 @@ h1{
     }
 }
 
-.logos-title {
-    display: flex;
-    justify-content: center;
-    align-items: center;        
-    text-align: center;  
-    padding-bottom: 0px;    
-}
 
-.logos-header {
-    font-size: 24px;
-} 
 h2{
     font-size: 64px;
     line-height: 1;
@@ -311,6 +301,8 @@ h3{
         border-radius: 30px;
         padding:30px;
         display:flex;
+        margin: 0 auto;
+        max-width: 1440px;
         @media(max-width:1024px){
             flex-direction: column;
         }

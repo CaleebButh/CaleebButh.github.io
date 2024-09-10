@@ -330,3 +330,31 @@ h3{
         }
     }
 }
+
+.work-experience{
+    text-align: center;
+    background-color: var(--green);
+    border-radius: 30px;
+}
+
+.header{
+    margin-bottom: 20px;
+}
+.columns{
+    display: flex;
+    justify-content:space-between;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+.column{
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    margin: 10px;
+    width: 50%;
+}
+article{
+    background-color: var(--green-400);
+    padding:15px;
+    border-radius: 15px;
+}

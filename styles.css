@@ -364,7 +364,7 @@ h3{
             &:hover{
                 transform: scale(1.05);
                 box-shadow: 0 8px 15px rgba(0,0,0,0.2);
-                transition:ease 0.3s all;
+                transition:ease 0.5s all;
             }
             figure{
                 width: 100%;
